@@ -19,7 +19,7 @@
         <div class="carousel-item active">
         <img src="./img/img1.jpg" class="d-block w-10" alt="...">
         <div class="carousel-caption d-none d-md-block">
-            <h2>Aneis</h2>
+            <h2>Anéis</h2>
             <p>Pode encontrar o seu tipo de anel favorito na nossa galeria.</p>
         </div>
         </div>
